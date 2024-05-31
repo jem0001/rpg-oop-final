@@ -1,4 +1,5 @@
-# Dynamic Portfolio Template Using PHP/MYSQL
+# 
+
 
 admin panel
 localhost/rpg1/admin/
